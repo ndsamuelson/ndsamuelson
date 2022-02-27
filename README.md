@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/ndsamuelson"><img src="https://api.daily.dev/devcards/eb0b5d77d87f4c75bac865ac9d42e072.png?r=1dt" width="400" alt="Nic Samuelson's Dev Card"/></a>
+<a href="https://app.daily.dev/ndsamuelson"><img src="https://api.daily.dev/devcards/eb0b5d77d87f4c75bac865ac9d42e072.png?r=gwu" width="400" alt="Nic Samuelson's Dev Card"/></a>
 
 <!--
 **ndsamuelson/ndsamuelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
